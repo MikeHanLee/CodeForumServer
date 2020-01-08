@@ -1,1 +1,3 @@
 # CodeForumServer
+
+服务器端配置比较简单，使用lnmp或者lamp都可以，主要是php版本要求在5.6以上。另外在服务器端要安装好对应的websocket扩展。配置好lnmp环境后直接将此文件夹在对应的web文件夹下就好了。只有myws.php这个脚本文件需要运行在服务器。
